@@ -1,0 +1,7 @@
+.env
+*.pyc
+venv
+staticfiles
+proxy-server/node_modules
+*.sqlite3
+.vscode/
